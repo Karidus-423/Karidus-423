@@ -1,4 +1,4 @@
-## Hi there 👋
+## The Profile Page
 
 <!--
 **Karidus-423/Karidus-423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
